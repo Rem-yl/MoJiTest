@@ -1,0 +1,365 @@
+[
+  {
+    "question": "平假名「の、ぬ」的对应romaji是什么？（用空格分隔）",
+    "user_answer": "no me",
+    "correct_answer": "no nu",
+    "is_correct": false,
+    "mode": "hira_to_roma",
+    "char_type": "basic",
+    "timestamp": "1749449621.939756",
+    "is_review": false
+  },
+  {
+    "question": "平假名「ふ、ぴ」的对应romaji是什么？（用空格分隔）",
+    "user_answer": "fu bi",
+    "correct_answer": "fu pi",
+    "is_correct": false,
+    "mode": "hira_to_roma",
+    "char_type": "basic",
+    "timestamp": "1749449621.939756",
+    "is_review": false
+  },
+  {
+    "question": "罗马音「ya、ga」的对应hiragana是什么？（用空格分隔）",
+    "user_answer": "や　が",
+    "correct_answer": "や が",
+    "is_correct": false,
+    "mode": "roma_to_hira",
+    "char_type": "basic",
+    "timestamp": "1749449678.0421824",
+    "is_review": false
+  },
+  {
+    "question": "罗马音「me、ko」的对应hiragana是什么？（用空格分隔）",
+    "user_answer": "め　こ",
+    "correct_answer": "め こ",
+    "is_correct": false,
+    "mode": "roma_to_hira",
+    "char_type": "basic",
+    "timestamp": "1749449678.0421824",
+    "is_review": false
+  },
+  {
+    "question": "片假名「ヘ、ル」的对应romaji是什么？（用空格分隔）",
+    "user_answer": "he ro",
+    "correct_answer": "he ru",
+    "is_correct": false,
+    "mode": "kata_to_roma",
+    "char_type": "basic",
+    "timestamp": "1749449678.0421824",
+    "is_review": false
+  },
+  {
+    "question": "片假名「ボ、ド」的对应romaji是什么？（用空格分隔）",
+    "user_answer": "bu do",
+    "correct_answer": "bo do",
+    "is_correct": false,
+    "mode": "kata_to_roma",
+    "char_type": "basic",
+    "timestamp": "1749449678.0421824",
+    "is_review": false
+  },
+  {
+    "question": "平假名「わ、づ」的对应romaji是什么？（用空格分隔）",
+    "user_answer": "wa zu",
+    "correct_answer": "wa zu",
+    "is_correct": true,
+    "mode": "hira_to_roma",
+    "char_type": "basic",
+    "timestamp": "1749449862.7745688"
+  },
+  {
+    "question": "平假名「へ、り」的对应romaji是什么？（用空格分隔）",
+    "user_answer": "he ri",
+    "correct_answer": "he ri",
+    "is_correct": true,
+    "mode": "hira_to_roma",
+    "char_type": "basic",
+    "timestamp": "1749449862.7745688"
+  },
+  {
+    "question": "平假名「ぞ、て」的对应romaji是什么？（用空格分隔）",
+    "user_answer": "zo te",
+    "correct_answer": "zo te",
+    "is_correct": true,
+    "mode": "hira_to_roma",
+    "char_type": "basic",
+    "timestamp": "1749449862.7745688"
+  },
+  {
+    "question": "片假名「チ」的对应romaji是什么？（用空格分隔）",
+    "user_answer": "bo",
+    "correct_answer": "chi",
+    "is_correct": false,
+    "mode": "kata_to_roma",
+    "char_type": "basic",
+    "timestamp": "1749449862.7745688"
+  },
+  {
+    "question": "片假名「ヲ」的对应romaji是什么？（用空格分隔）",
+    "user_answer": "tu",
+    "correct_answer": "wo",
+    "is_correct": false,
+    "mode": "kata_to_roma",
+    "char_type": "basic",
+    "timestamp": "1749449862.7745688"
+  },
+  {
+    "question": "片假名「ワ」的对应romaji是什么？（用空格分隔）",
+    "user_answer": "he",
+    "correct_answer": "wa",
+    "is_correct": false,
+    "mode": "kata_to_roma",
+    "char_type": "basic",
+    "timestamp": "1749449862.7745688"
+  },
+  {
+    "question": "片假名「ス」的对应romaji是什么？（用空格分隔）",
+    "user_answer": "do",
+    "correct_answer": "su",
+    "is_correct": false,
+    "mode": "kata_to_roma",
+    "char_type": "basic",
+    "timestamp": "1749449862.7745688"
+  },
+  {
+    "question": "片假名「ヒ」的对应romaji是什么？（用空格分隔）",
+    "user_answer": "i",
+    "correct_answer": "hi",
+    "is_correct": false,
+    "mode": "kata_to_roma",
+    "char_type": "basic",
+    "timestamp": "1749449862.7745688"
+  },
+  {
+    "question": "平假名「な」的对应romaji是什么？",
+    "user_answer": "na pe",
+    "correct_answer": "na",
+    "is_correct": false,
+    "mode": "hira_to_roma",
+    "char_type": "basic",
+    "timestamp": "1749450125.1426766",
+    "is_review": true,
+    "original_mistake": true
+  },
+  {
+    "question": "平假名「ぺ」的对应romaji是什么？",
+    "user_answer": "pe",
+    "correct_answer": "pe",
+    "is_correct": true,
+    "mode": "hira_to_roma",
+    "char_type": "basic",
+    "timestamp": "1749450125.1426766",
+    "is_review": true,
+    "original_mistake": false
+  },
+  {
+    "question": "平假名「な」的对应romaji是什么？",
+    "user_answer": "na",
+    "correct_answer": "na",
+    "is_correct": true,
+    "mode": "hira_to_roma",
+    "char_type": "basic",
+    "timestamp": "1749450125.1426766",
+    "is_review": true,
+    "is_weak_point": true
+  },
+  {
+    "question": "平假名「な」的对应romaji是什么？",
+    "user_answer": "na",
+    "correct_answer": "na",
+    "is_correct": true,
+    "mode": "hira_to_roma",
+    "char_type": "basic",
+    "timestamp": "1749450125.1426766",
+    "is_review": true,
+    "is_weak_point": true
+  },
+  {
+    "question": "平假名「な」的对应romaji是什么？",
+    "user_answer": "na",
+    "correct_answer": "na",
+    "is_correct": true,
+    "mode": "hira_to_roma",
+    "char_type": "basic",
+    "timestamp": "1749450125.1426766",
+    "is_review": true,
+    "is_weak_point": true
+  },
+  {
+    "question": "平假名「じ」的对应romaji是什么？",
+    "user_answer": "shi",
+    "correct_answer": "ji",
+    "is_correct": false,
+    "mode": "hira_to_roma",
+    "char_type": "basic",
+    "timestamp": "1749450125.1426766",
+    "is_review": true,
+    "original_mistake": true
+  },
+  {
+    "question": "平假名「え」的对应romaji是什么？",
+    "user_answer": "e",
+    "correct_answer": "e",
+    "is_correct": true,
+    "mode": "hira_to_roma",
+    "char_type": "basic",
+    "timestamp": "1749450125.1426766",
+    "is_review": true,
+    "original_mistake": true
+  },
+  {
+    "question": "平假名「げ」的对应romaji是什么？",
+    "user_answer": "ge",
+    "correct_answer": "ge",
+    "is_correct": true,
+    "mode": "hira_to_roma",
+    "char_type": "basic",
+    "timestamp": "1749450125.1426766",
+    "is_review": true,
+    "original_mistake": false
+  },
+  {
+    "question": "平假名「び」的对应romaji是什么？",
+    "user_answer": "bi",
+    "correct_answer": "bi",
+    "is_correct": true,
+    "mode": "hira_to_roma",
+    "char_type": "basic",
+    "timestamp": "1749450125.1426766",
+    "is_review": true,
+    "original_mistake": false
+  },
+  {
+    "question": "平假名「だ」的对应romaji是什么？",
+    "user_answer": "da",
+    "correct_answer": "da",
+    "is_correct": true,
+    "mode": "hira_to_roma",
+    "char_type": "basic",
+    "timestamp": "1749450125.1426766",
+    "is_review": true,
+    "original_mistake": false
+  },
+  {
+    "question": "平假名「ゆ」的对应romaji是什么？",
+    "user_answer": "yo",
+    "correct_answer": "yu",
+    "is_correct": false,
+    "mode": "hira_to_roma",
+    "char_type": "basic",
+    "timestamp": "1749450125.1426766",
+    "is_review": true,
+    "original_mistake": false
+  },
+  {
+    "question": "平假名「ゆ」的对应romaji是什么？",
+    "user_answer": "yu",
+    "correct_answer": "yu",
+    "is_correct": true,
+    "mode": "hira_to_roma",
+    "char_type": "basic",
+    "timestamp": "1749450125.1426766",
+    "is_review": true,
+    "original_mistake": false
+  },
+  {
+    "question": "平假名「が」的对应romaji是什么？",
+    "user_answer": "ga",
+    "correct_answer": "ga",
+    "is_correct": true,
+    "mode": "hira_to_roma",
+    "char_type": "basic",
+    "timestamp": "1749450125.1426766",
+    "is_review": true,
+    "original_mistake": false
+  },
+  {
+    "question": "平假名「ち」的对应romaji是什么？",
+    "user_answer": "chi",
+    "correct_answer": "chi",
+    "is_correct": true,
+    "mode": "hira_to_roma",
+    "char_type": "basic",
+    "timestamp": "1749450125.1426766",
+    "is_review": true,
+    "original_mistake": false
+  },
+  {
+    "question": "平假名「ぷ」的对应romaji是什么？",
+    "user_answer": "pu",
+    "correct_answer": "pu",
+    "is_correct": true,
+    "mode": "hira_to_roma",
+    "char_type": "basic",
+    "timestamp": "1749450125.1426766",
+    "is_review": true,
+    "original_mistake": false
+  },
+  {
+    "question": "平假名「ゆ」的对应romaji是什么？",
+    "user_answer": "yu",
+    "correct_answer": "yu",
+    "is_correct": true,
+    "mode": "hira_to_roma",
+    "char_type": "basic",
+    "timestamp": "1749450125.1426766",
+    "is_review": true,
+    "is_weak_point": true
+  },
+  {
+    "question": "平假名「ゆ」的对应romaji是什么？",
+    "user_answer": "yu",
+    "correct_answer": "yu",
+    "is_correct": true,
+    "mode": "hira_to_roma",
+    "char_type": "basic",
+    "timestamp": "1749450125.1426766",
+    "is_review": true,
+    "is_weak_point": true
+  },
+  {
+    "question": "平假名「ゆ」的对应romaji是什么？",
+    "user_answer": "yu",
+    "correct_answer": "yu",
+    "is_correct": true,
+    "mode": "hira_to_roma",
+    "char_type": "basic",
+    "timestamp": "1749450125.1426766",
+    "is_review": true,
+    "is_weak_point": true
+  },
+  {
+    "question": "平假名「じ」的对应romaji是什么？",
+    "user_answer": "ji",
+    "correct_answer": "ji",
+    "is_correct": true,
+    "mode": "hira_to_roma",
+    "char_type": "basic",
+    "timestamp": "1749450125.1426766",
+    "is_review": true,
+    "is_weak_point": true
+  },
+  {
+    "question": "平假名「じ」的对应romaji是什么？",
+    "user_answer": "ji",
+    "correct_answer": "ji",
+    "is_correct": true,
+    "mode": "hira_to_roma",
+    "char_type": "basic",
+    "timestamp": "1749450125.1426766",
+    "is_review": true,
+    "is_weak_point": true
+  },
+  {
+    "question": "平假名「じ」的对应romaji是什么？",
+    "user_answer": "ji",
+    "correct_answer": "ji",
+    "is_correct": true,
+    "mode": "hira_to_roma",
+    "char_type": "basic",
+    "timestamp": "1749450125.1426766",
+    "is_review": true,
+    "is_weak_point": true
+  }
+]
