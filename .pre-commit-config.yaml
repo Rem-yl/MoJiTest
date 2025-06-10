@@ -25,7 +25,7 @@ repos:
     rev: v0.4.5
     hooks:
       - id: ruff
-      
+
   # 通用的文本检查器（行尾空格、换行符等）
   - repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v4.6.0
