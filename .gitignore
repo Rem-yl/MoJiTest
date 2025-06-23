@@ -3,3 +3,4 @@ __pycache__
 .ruff_cache
 hiragana_quiz_results.json
 results
+.DS_Store
