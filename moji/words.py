@@ -29,7 +29,7 @@ class WordQuiz:
             if path not in self.units:
                 raise FileNotFoundError(f"Missing unit files")
             try:
-                df = pd.read_csv(path, encoding="utf-8")
+                df = pd.read_csv(path, encoding="utf-8", engine="python")
                 dataframes.append(df)
             except Exception as e:
                 print(f"Error reading {path}: {e}")
